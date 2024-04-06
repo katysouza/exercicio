@@ -1,0 +1,7 @@
+o programa escolhe o numero
+mostrar o numero de tentativas "10"
+o usuario entrar com um numero que ele ache que seja o numero primo
+usa o while para o comparar a entrada com o numero escolhido pelo usuario
+o progaram lê a entrada do usuario 
+se ele não acertar após 5 tentativas ajudar o usuario receberá dicas
+se o usuario acerta o numero ele imprimi acertou e o numero
